@@ -6,7 +6,7 @@ Hello! My name is Kito Campbell, and I am a passionate data enthusiast, and elit
 
 ## table of contents 
 - [the journey](#the-journey )
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [Skills and Expertise](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 - [How to Create Subfolders in your Repository?](#how-to-create-subfolders-in-your-repository)
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
