@@ -29,10 +29,6 @@ Database Management: Designing and optimizing data systems for efficiency.
 
 Leadership and Teamwork: Proven ability to inspire and collaborate with diverse teams.
 
-## Projects 
-
-
-
 
 ## Vision for the future 
 
