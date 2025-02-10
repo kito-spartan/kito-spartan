@@ -34,9 +34,5 @@ Leadership and Teamwork: Proven ability to inspire and collaborate with diverse 
 
 As a data professional, I am committed to leveraging technology to solve real-world problems. Whether optimizing athletic training or creating tools for global remote teams, I aim to bridge innovation with human potential. My journey reflects the belief that dedication and adaptability can lead to extraordinary achievements.
 
-## Contact Me 
- linkedin
- instagram 
- phone 
- email 
+
 
